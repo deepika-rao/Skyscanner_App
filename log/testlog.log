@@ -1,0 +1,472 @@
+2018-02-08 12:47:05,663 - NewSmokeTest -INFO - Launch application
+2018-02-08 12:53:42,238 - NewSmokeTest -INFO - Launch application
+2018-02-08 12:55:03,606 - NewSmokeTest -INFO - Launch application
+2018-02-08 12:55:58,573 - NewSmokeTest -INFO - Launch application
+2018-02-08 12:57:29,137 - NewSmokeTest -INFO - Launch application
+2018-02-08 12:58:01,166 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:01:45,197 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:04:51,548 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:06:07,262 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:11:18,949 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:11:35,395 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:12:43,864 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:17:00,393 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:19:51,499 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:21:21,573 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:21:53,467 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:22:16,082 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:25:10,238 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:26:32,687 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:27:26,197 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:27:45,893 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:29:59,450 - NewSmokeTest -INFO - Launch application
+2018-02-08 13:30:27,429 - NewSmokeTest -INFO - Launch application
+2018-02-08 14:02:26,416 - NewSmokeTest -INFO - Launch application
+2018-02-08 14:03:22,024 - NewSmokeTest -INFO - Launch application
+2018-02-08 14:12:30,496 - NewSmokeTest -INFO - Launched application
+2018-02-08 14:14:18,586 - NewSmokeTest -INFO - Launched application
+2018-02-08 15:00:53,264 - NewSmokeTest -INFO - Launch application
+2018-02-08 15:00:53,732 - NewSmokeTest -INFO - Click Next
+2018-02-08 15:00:54,842 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 15:06:22,284 - NewSmokeTest -INFO - Launch application
+2018-02-08 15:06:22,752 - NewSmokeTest -INFO - Click Next
+2018-02-08 15:06:23,743 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 15:06:24,621 - NewSmokeTest -INFO - Click on Login
+2018-02-08 15:13:24,659 - NewSmokeTest -INFO - Launch application
+2018-02-08 15:13:25,227 - NewSmokeTest -INFO - Click Next
+2018-02-08 15:13:26,259 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 15:13:27,092 - NewSmokeTest -INFO - Click on Login
+2018-02-08 15:36:37,383 - NewSmokeTest -INFO - Launch application
+2018-02-08 15:36:37,883 - NewSmokeTest -INFO - Click Next
+2018-02-08 15:36:38,987 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 15:36:40,846 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 15:43:26,639 - NewSmokeTest -INFO - Launch application
+2018-02-08 15:43:27,088 - NewSmokeTest -INFO - Click Next
+2018-02-08 15:43:28,159 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 15:43:29,993 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 15:45:13,492 - NewSmokeTest -INFO - Launch application
+2018-02-08 15:45:13,910 - NewSmokeTest -INFO - Click Next
+2018-02-08 15:45:14,941 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 15:45:16,009 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 15:48:08,109 - NewSmokeTest -INFO - Launch application
+2018-02-08 15:48:08,557 - NewSmokeTest -INFO - Click Next
+2018-02-08 15:48:09,820 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 15:48:11,546 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 15:48:13,890 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 15:48:15,153 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 15:48:19,426 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 16:12:05,609 - NewSmokeTest -INFO - Launch application
+2018-02-08 16:12:06,151 - NewSmokeTest -INFO - Click Next
+2018-02-08 16:12:07,241 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 16:12:09,165 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 16:12:11,388 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 16:12:12,752 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 16:12:17,000 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 16:14:14,414 - NewSmokeTest -INFO - Launch application
+2018-02-08 16:14:14,752 - NewSmokeTest -INFO - Click Next
+2018-02-08 16:14:15,579 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 16:15:15,832 - NewSmokeTest -INFO - Launch application
+2018-02-08 16:15:16,280 - NewSmokeTest -INFO - Click Next
+2018-02-08 16:15:17,381 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 16:15:18,212 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 16:15:20,920 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 16:15:22,267 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 16:15:26,552 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 16:17:44,923 - NewSmokeTest -INFO - Launch application
+2018-02-08 16:17:45,343 - NewSmokeTest -INFO - Click Next
+2018-02-08 16:17:46,431 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 16:17:47,271 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 16:17:49,825 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 16:17:51,090 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 16:17:55,364 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 18:43:47,360 - NewSmokeTest -INFO - Launch application
+2018-02-08 18:43:47,833 - NewSmokeTest -INFO - Click Next
+2018-02-08 18:43:48,851 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 18:43:50,828 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 18:43:53,073 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 18:43:54,444 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 18:43:58,703 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 18:44:02,189 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:00:47,521 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:00:47,930 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:00:49,058 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:00:49,881 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 19:00:52,601 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 19:00:53,869 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:00:58,109 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 19:01:01,524 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:14:36,104 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:14:36,674 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:14:37,799 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:14:39,595 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 19:14:41,782 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 19:14:43,069 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:14:47,334 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 19:14:50,785 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:21:21,491 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:21:21,966 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:21:23,042 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:21:24,934 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 19:21:27,162 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 19:21:28,549 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:21:32,792 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 19:21:36,238 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:21:42,235 - NewSmokeTest -INFO - Enter location
+2018-02-08 19:24:24,846 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:24:25,399 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:24:26,514 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:24:28,441 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 19:24:30,648 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 19:24:31,921 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:24:36,197 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 19:24:39,619 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:24:44,752 - NewSmokeTest -INFO - Enter location
+2018-02-08 19:44:16,291 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:44:16,750 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:44:17,801 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:44:18,655 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 19:44:21,439 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 19:44:22,743 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:44:27,050 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 19:44:30,475 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:44:37,914 - NewSmokeTest -INFO - Enter location
+2018-02-08 19:45:07,360 - NewSmokeTest -INFO - Enter Destination
+2018-02-08 19:46:17,449 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:46:17,919 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:46:19,089 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:46:20,968 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 19:46:23,277 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 19:46:24,565 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:46:28,838 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 19:46:32,259 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:46:38,519 - NewSmokeTest -INFO - Enter location
+2018-02-08 19:47:05,170 - NewSmokeTest -INFO - Enter Destination
+2018-02-08 19:49:00,649 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:49:01,033 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:49:01,839 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:52:18,874 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:52:19,396 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:52:20,338 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:52:21,226 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 19:52:23,827 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 19:52:25,116 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:52:29,406 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 19:52:32,822 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:52:38,816 - NewSmokeTest -INFO - Enter location
+2018-02-08 19:53:08,091 - NewSmokeTest -INFO - Enter Destination
+2018-02-08 19:54:45,910 - NewSmokeTest -INFO - Launch application
+2018-02-08 19:54:46,364 - NewSmokeTest -INFO - Click Next
+2018-02-08 19:54:47,492 - NewSmokeTest -INFO - Click Next Again
+2018-02-08 19:54:49,417 - NewSmokeTest -INFO - Click on Close Button
+2018-02-08 19:54:51,605 - NewSmokeTest -INFO - Click on One Way
+2018-02-08 19:54:52,918 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:54:57,177 - NewSmokeTest -INFO - Click on Allow
+2018-02-08 19:55:00,572 - NewSmokeTest -INFO - Click on Departing From
+2018-02-08 19:55:06,805 - NewSmokeTest -INFO - Enter location
+2018-02-08 19:55:36,335 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 09:33:34,848 - NewSmokeTest -INFO - Launch application
+2018-02-09 09:33:35,326 - NewSmokeTest -INFO - Click Next
+2018-02-09 09:33:36,412 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 09:33:38,255 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 09:33:40,477 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 09:33:41,850 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 09:33:46,116 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 09:33:49,465 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 09:33:55,938 - NewSmokeTest -INFO - Enter location
+2018-02-09 09:34:25,776 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 10:45:48,440 - NewSmokeTest -INFO - Launch application
+2018-02-09 10:45:48,842 - NewSmokeTest -INFO - Click Next
+2018-02-09 10:45:49,954 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 10:45:50,776 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 10:50:22,091 - NewSmokeTest -INFO - Launch application
+2018-02-09 10:50:22,510 - NewSmokeTest -INFO - Click Next
+2018-02-09 10:50:23,638 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 10:50:24,472 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 10:50:27,042 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 10:51:59,404 - NewSmokeTest -INFO - Launch application
+2018-02-09 10:51:59,880 - NewSmokeTest -INFO - Click Next
+2018-02-09 10:52:00,947 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 10:52:02,842 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 10:52:05,087 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 10:53:36,606 - NewSmokeTest -INFO - Launch application
+2018-02-09 10:53:37,106 - NewSmokeTest -INFO - Click Next
+2018-02-09 10:53:38,276 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 10:53:40,174 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 10:53:42,458 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 10:56:32,239 - NewSmokeTest -INFO - Launch application
+2018-02-09 10:56:32,664 - NewSmokeTest -INFO - Click Next
+2018-02-09 10:56:33,780 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 10:56:34,609 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 10:56:37,257 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 10:59:15,794 - NewSmokeTest -INFO - Launch application
+2018-02-09 10:59:16,183 - NewSmokeTest -INFO - Click Next
+2018-02-09 10:59:17,268 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 10:59:18,170 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 10:59:20,666 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 11:01:36,344 - NewSmokeTest -INFO - Launch application
+2018-02-09 11:01:36,822 - NewSmokeTest -INFO - Click Next
+2018-02-09 11:01:37,875 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 11:01:38,758 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 11:01:41,312 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 11:01:43,894 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:01:48,142 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 11:01:53,595 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:01:59,983 - NewSmokeTest -INFO - Enter location
+2018-02-09 11:02:29,792 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 11:15:25,540 - NewSmokeTest -INFO - Launch application
+2018-02-09 11:15:26,022 - NewSmokeTest -INFO - Click Next
+2018-02-09 11:15:27,106 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 11:15:27,941 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 11:15:30,499 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 11:15:33,045 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:15:37,317 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 11:15:42,728 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:15:48,861 - NewSmokeTest -INFO - Enter location
+2018-02-09 11:21:54,450 - NewSmokeTest -INFO - Launch application
+2018-02-09 11:21:54,852 - NewSmokeTest -INFO - Click Next
+2018-02-09 11:21:56,018 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 11:21:56,864 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 11:21:59,648 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 11:22:02,216 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:22:06,581 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 11:22:11,973 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:22:19,225 - NewSmokeTest -INFO - Enter location
+2018-02-09 11:22:49,633 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 11:29:06,428 - NewSmokeTest -INFO - Launch application
+2018-02-09 11:29:06,932 - NewSmokeTest -INFO - Click Next
+2018-02-09 11:29:08,017 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 11:29:08,809 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 11:29:11,352 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 11:29:13,860 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:29:18,125 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 11:29:23,562 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:29:28,356 - NewSmokeTest -INFO - Enter location
+2018-02-09 11:29:35,899 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 11:29:58,821 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 11:43:05,802 - NewSmokeTest -INFO - Launch application
+2018-02-09 11:43:06,228 - NewSmokeTest -INFO - Click Next
+2018-02-09 11:43:07,288 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 11:43:08,181 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 11:43:10,680 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 11:43:13,259 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:43:17,545 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 11:43:22,942 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 11:43:30,095 - NewSmokeTest -INFO - Enter location
+2018-02-09 11:43:37,502 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 11:44:00,010 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 11:44:06,463 - NewSmokeTest -INFO - Click Search
+2018-02-09 12:29:16,705 - NewSmokeTest -INFO - Launch application
+2018-02-09 12:33:59,045 - NewSmokeTest -INFO - Launch application
+2018-02-09 12:33:59,501 - NewSmokeTest -INFO - Click Next
+2018-02-09 12:34:00,504 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 12:34:01,394 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 12:34:03,945 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 12:34:06,624 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 12:34:10,841 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 12:34:13,307 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 12:34:36,351 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 13:07:27,539 - NewSmokeTest -INFO - Launch application
+2018-02-09 13:07:27,974 - NewSmokeTest -INFO - Click Next
+2018-02-09 13:07:29,153 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 13:07:30,075 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 13:07:32,519 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 13:07:35,092 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:07:39,130 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 13:07:41,546 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:08:05,089 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 13:27:40,430 - NewSmokeTest -INFO - Launch application
+2018-02-09 13:27:40,763 - NewSmokeTest -INFO - Click Next
+2018-02-09 13:27:41,564 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 13:45:57,101 - NewSmokeTest -INFO - Launch application
+2018-02-09 13:45:57,775 - NewSmokeTest -INFO - Click Next
+2018-02-09 13:45:58,893 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 13:46:00,665 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 13:46:04,151 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 13:46:06,884 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:46:11,625 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 13:46:17,224 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:46:22,709 - NewSmokeTest -INFO - Enter location
+2018-02-09 13:46:29,542 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 13:46:51,662 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 13:51:47,799 - NewSmokeTest -INFO - Launch application
+2018-02-09 13:51:48,310 - NewSmokeTest -INFO - Click Next
+2018-02-09 13:51:49,453 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 13:51:51,408 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 13:51:53,674 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 13:51:56,204 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:52:00,479 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 13:52:05,889 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:52:11,493 - NewSmokeTest -INFO - Enter location
+2018-02-09 13:52:18,449 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 13:52:41,123 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 13:55:47,100 - NewSmokeTest -INFO - Launch application
+2018-02-09 13:55:47,616 - NewSmokeTest -INFO - Click Next
+2018-02-09 13:55:48,730 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 13:55:50,517 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 13:55:52,875 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 13:55:55,528 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:55:59,793 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 13:56:05,277 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:56:09,908 - NewSmokeTest -INFO - Enter location
+2018-02-09 13:56:17,403 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 13:56:40,461 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 13:56:47,938 - NewSmokeTest -INFO - Click Search
+2018-02-09 13:59:05,038 - NewSmokeTest -INFO - Launch application
+2018-02-09 13:59:05,479 - NewSmokeTest -INFO - Click Next
+2018-02-09 13:59:06,588 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 13:59:07,389 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 13:59:10,117 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 13:59:12,691 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:59:16,980 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 13:59:22,480 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 13:59:28,008 - NewSmokeTest -INFO - Enter location
+2018-02-09 13:59:35,151 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 14:01:08,836 - NewSmokeTest -INFO - Launch application
+2018-02-09 14:01:09,332 - NewSmokeTest -INFO - Click Next
+2018-02-09 14:01:10,480 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 14:01:12,363 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 14:01:14,751 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 14:01:17,292 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 14:01:21,539 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 14:01:26,978 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 14:01:31,802 - NewSmokeTest -INFO - Enter location
+2018-02-09 14:01:39,198 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 14:02:01,618 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 14:02:09,138 - NewSmokeTest -INFO - Click Search
+2018-02-09 14:03:54,381 - NewSmokeTest -INFO - Launch application
+2018-02-09 14:03:54,811 - NewSmokeTest -INFO - Click Next
+2018-02-09 14:03:55,962 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 14:03:56,786 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 14:03:59,500 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 14:04:02,119 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 14:04:06,374 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 14:04:11,842 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 14:04:17,373 - NewSmokeTest -INFO - Enter location
+2018-02-09 14:04:24,837 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 14:04:46,729 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 14:04:54,150 - NewSmokeTest -INFO - Click Searchbutton
+2018-02-09 14:16:31,402 - NewSmokeTest -INFO - Launch application
+2018-02-09 14:16:31,826 - NewSmokeTest -INFO - Click Next
+2018-02-09 14:16:32,909 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 14:16:33,734 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 14:16:36,421 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 14:16:39,112 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 14:16:43,370 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 14:16:48,786 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 14:16:55,536 - NewSmokeTest -INFO - Enter location
+2018-02-09 14:17:02,461 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 14:17:25,480 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 14:17:34,965 - NewSmokeTest -INFO - Click Searchbutton
+2018-02-09 14:27:53,462 - NewSmokeTest -INFO - Launch application
+2018-02-09 14:27:54,035 - NewSmokeTest -INFO - Click Next
+2018-02-09 14:27:55,102 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 14:27:57,065 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 14:27:59,377 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 14:28:01,907 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 14:28:06,152 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 14:28:11,560 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 14:28:17,326 - NewSmokeTest -INFO - Enter location
+2018-02-09 14:28:24,840 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 14:28:47,265 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 14:34:47,089 - NewSmokeTest -INFO - Launch application
+2018-02-09 14:34:47,560 - NewSmokeTest -INFO - Click Next
+2018-02-09 14:34:48,673 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 14:34:50,342 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 15:07:49,601 - NewSmokeTest -INFO - Launch application
+2018-02-09 15:07:50,123 - NewSmokeTest -INFO - Click Next
+2018-02-09 15:07:51,199 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 15:07:53,058 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 15:07:55,347 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 15:07:57,936 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:08:02,183 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 15:08:07,577 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:08:14,074 - NewSmokeTest -INFO - Enter location
+2018-02-09 15:08:20,996 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 15:08:45,072 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 15:08:55,495 - NewSmokeTest -INFO - Click Searchbutton
+2018-02-09 15:22:08,551 - NewSmokeTest -INFO - Launch application
+2018-02-09 15:22:09,004 - NewSmokeTest -INFO - Click Next
+2018-02-09 15:22:10,025 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 15:22:10,873 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 15:22:13,479 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 15:22:16,040 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:22:20,281 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 15:22:25,766 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:22:30,485 - NewSmokeTest -INFO - Enter location
+2018-02-09 15:22:37,943 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 15:23:00,961 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 15:23:11,447 - NewSmokeTest -INFO - Click Searchbutton
+2018-02-09 15:25:10,988 - NewSmokeTest -INFO - Launch application
+2018-02-09 15:25:11,415 - NewSmokeTest -INFO - Click Next
+2018-02-09 15:25:12,620 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 15:25:14,481 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 15:25:16,805 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 15:25:19,382 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:25:23,603 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 15:25:29,027 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:25:34,337 - NewSmokeTest -INFO - Enter location
+2018-02-09 15:25:41,260 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 15:26:03,777 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 15:26:14,159 - NewSmokeTest -INFO - Click Searchbutton
+2018-02-09 15:28:19,007 - NewSmokeTest -INFO - Launch application
+2018-02-09 15:28:19,489 - NewSmokeTest -INFO - Click Next
+2018-02-09 15:28:20,585 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 15:28:22,544 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 15:28:24,805 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 15:28:27,453 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:28:31,694 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 15:28:37,108 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:28:43,150 - NewSmokeTest -INFO - Enter location
+2018-02-09 15:28:50,453 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 15:29:12,505 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 15:29:22,854 - NewSmokeTest -INFO - Click Searchbutton
+2018-02-09 15:37:24,071 - NewSmokeTest -INFO - Launch application
+2018-02-09 15:37:24,609 - NewSmokeTest -INFO - Click Next
+2018-02-09 15:37:25,717 - NewSmokeTest -INFO - Click Next Again
+2018-02-09 15:37:27,582 - NewSmokeTest -INFO - Click on Close Button
+2018-02-09 15:37:29,747 - NewSmokeTest -INFO - Click on One Way
+2018-02-09 15:37:32,334 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:37:36,634 - NewSmokeTest -INFO - Click on Allow
+2018-02-09 15:37:42,006 - NewSmokeTest -INFO - Click on Departing From
+2018-02-09 15:37:47,390 - NewSmokeTest -INFO - Enter location
+2018-02-09 15:37:54,339 - NewSmokeTest -INFO - Enter Departure
+2018-02-09 15:38:18,064 - NewSmokeTest -INFO - Enter Destination
+2018-02-09 15:38:28,446 - NewSmokeTest -INFO - Click Searchbutton
+2018-02-14 12:53:22,829 - NewSmokeTest -INFO - Launch application
+2018-02-14 12:53:23,419 - NewSmokeTest -INFO - Click Next
+2018-02-14 12:53:24,478 - NewSmokeTest -INFO - Click Next Again
+2018-02-14 12:53:26,151 - NewSmokeTest -INFO - Click on Close Button
+2018-02-14 12:53:28,444 - NewSmokeTest -INFO - Click on One Way
+2018-02-14 12:53:31,011 - NewSmokeTest -INFO - Click on Departing From
+2018-02-14 12:53:35,378 - NewSmokeTest -INFO - Click on Allow
+2018-02-14 12:53:40,834 - NewSmokeTest -INFO - Click on Departing From
+2018-02-14 12:53:48,193 - NewSmokeTest -INFO - Enter location
+2018-02-14 12:53:55,725 - NewSmokeTest -INFO - Enter Departure
+2018-02-14 12:54:17,960 - NewSmokeTest -INFO - Enter Destination
+2018-02-14 12:54:28,464 - NewSmokeTest -INFO - Click Searchbutton
+2018-02-14 13:41:31,971 - NewSmokeTest -INFO - Launch application
+2018-02-14 13:41:32,462 - NewSmokeTest -INFO - Click Next
+2018-02-14 13:41:33,531 - NewSmokeTest -INFO - Click Next Again
+2018-02-14 13:41:34,346 - NewSmokeTest -INFO - Click on Close Button
+2018-02-14 13:41:37,021 - NewSmokeTest -INFO - Click on One Way
+2018-02-14 13:41:39,637 - NewSmokeTest -INFO - Click on Departing From
+2018-02-14 13:41:43,872 - NewSmokeTest -INFO - Click on Allow
+2018-02-14 13:41:49,281 - NewSmokeTest -INFO - Click on Departing From
+2018-02-14 13:41:55,426 - NewSmokeTest -INFO - Enter location
+2018-02-14 13:42:02,435 - NewSmokeTest -INFO - Enter Departure
+2018-02-14 13:42:24,928 - NewSmokeTest -INFO - Enter Destination
+2018-02-14 13:43:49,274 - NewSmokeTest -INFO - Launch application
+2018-02-14 13:43:49,699 - NewSmokeTest -INFO - Click Next
+2018-02-14 13:43:50,479 - NewSmokeTest -INFO - Click Next Again
+2018-02-14 13:45:41,562 - NewSmokeTest -INFO - Launch application
+2018-02-14 13:45:41,978 - NewSmokeTest -INFO - Click Next
+2018-02-14 13:45:43,111 - NewSmokeTest -INFO - Click Next Again
+2018-02-14 13:45:43,939 - NewSmokeTest -INFO - Click on Close Button
+2018-02-14 13:45:46,503 - NewSmokeTest -INFO - Click on One Way
+2018-02-14 13:45:49,028 - NewSmokeTest -INFO - Click on Departing From
+2018-02-14 13:45:53,266 - NewSmokeTest -INFO - Click on Allow
+2018-02-14 13:45:58,690 - NewSmokeTest -INFO - Click on Departing From
+2018-02-14 13:46:04,792 - NewSmokeTest -INFO - Enter location
+2018-02-14 13:46:12,213 - NewSmokeTest -INFO - Enter Departure
+2018-02-14 13:46:35,993 - NewSmokeTest -INFO - Enter Destination
+2018-02-14 13:46:46,449 - NewSmokeTest -INFO - Click Searchbutton
