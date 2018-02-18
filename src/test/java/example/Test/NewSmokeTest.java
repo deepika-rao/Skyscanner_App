@@ -159,7 +159,8 @@ public class NewSmokeTest extends SetUp{
 	  
 	  Thread.sleep(5000);	
 	  
-	  fp.Searchbtn();
+	  //fp.SearchButton(driver, "android.widget.ImageButton", "net.skyscanner.android.main:id/fab");
+	  fp.SearchBtn();
 	  
 	  Thread.sleep(5000);
 	  
