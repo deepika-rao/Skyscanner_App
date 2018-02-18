@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.TouchAction;
+import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidKeyCode;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
@@ -54,7 +55,8 @@ public class FlightsPage extends SetUp{
 	@AndroidFindBy(xpath="//android.widget.TextView[@text='Mumbai ']")
 	public MobileElement select2;
 	
-	@AndroidFindBy(id="net.skyscanner.android.main:id/fab")
+	//@AndroidFindBy(id="net.skyscanner.android.main:id/fab")
+	@AndroidFindBy(xpath="//android.widget.FrameLayout[0]/android.view.ViewGroup[0]/android.widget.FrameLayout[2]/android.widget.ImageButton[1]")
 	//@AndroidFindBy(xpath="//android.widget.ImageButton")
 	//@AndroidFindBy(className="android.widget.ImageButton")
 	public MobileElement SearchButton;
@@ -104,7 +106,7 @@ public class FlightsPage extends SetUp{
 	{
 		//FlyingTo.click();
 		
-		DestinationLocation.sendKeys("L");
+		DestinationLocation.sendKeys("Lis");
 		
 		//driver.findElementByXPath("//android.widget.TextView[@text='Mumbai ']").click();			
 		
@@ -116,12 +118,21 @@ public class FlightsPage extends SetUp{
 		}*/				
 	}
 	
-	public void Searchbtn()
+	/*public static WebElement SearchButton(AppiumDriver driver,String classType,String childElement)
 	{		
 		//SearchButton.click();
-		TouchAction a2 = new TouchAction(driver);
-		a2.tap (100, 100).perform();
-	}
+		//TouchAction a2 = new TouchAction(driver);
+		//a2.tap (100, 100).perform();
+		String parentUiselector = "new UiSelector().className(" +classType + ").id("+ childElement +")";
+
+        return ((AndroidDriver)driver).findElementByAndroidUIAutomator(parentUiselector);
+	}*/
+	
+	public void SearchBtn()
+	{
+		SearchButton.click();		
+		
+	} 
 	
 	
 }
