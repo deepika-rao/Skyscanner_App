@@ -31,7 +31,7 @@ public class FlightsPage extends SetUp{
 	@AndroidFindBy(xpath="//android.widget.TextView[@text='RETURN']")
 	public MobileElement RETURN;
 	
-	@AndroidFindBy(xpath="//android.widget.TextView[@text='ONE WAY']")
+	@AndroidFindBy(xpath="//android.widget.TextView[@text='ONE-WAY']")
 	public MobileElement ONEWAY;
 	
 	@AndroidFindBy(xpath="//android.widget.TextView[@text='Departing From']")
@@ -55,10 +55,11 @@ public class FlightsPage extends SetUp{
 	@AndroidFindBy(xpath="//android.widget.TextView[@text='Mumbai ']")
 	public MobileElement select2;
 	
-	//@AndroidFindBy(id="net.skyscanner.android.main:id/fab")
-	@AndroidFindBy(xpath="//android.widget.FrameLayout[0]/android.view.ViewGroup[0]/android.widget.FrameLayout[2]/android.widget.ImageButton[1]")
-	//@AndroidFindBy(xpath="//android.widget.ImageButton")
+	@AndroidFindBy(id="net.skyscanner.android.main:id/fab")
+	//@AndroidFindBy(xpath="//android.widget.FrameLayout[0]/android.view.ViewGroup[0]/android.widget.FrameLayout[2]/android.widget.ImageButton[1]")
+	//@AndroidFindBy(xpath="//android.widget.ImageButton[@id='net.skyscanner.android.main:id/fab']")
 	//@AndroidFindBy(className="android.widget.ImageButton")
+	//@AndroidFindBy("UiSelector().description("Calendar Link")").click();
 	public MobileElement SearchButton;
 	
 	
@@ -124,7 +125,6 @@ public class FlightsPage extends SetUp{
 		//TouchAction a2 = new TouchAction(driver);
 		//a2.tap (100, 100).perform();
 		String parentUiselector = "new UiSelector().className(" +classType + ").id("+ childElement +")";
-
         return ((AndroidDriver)driver).findElementByAndroidUIAutomator(parentUiselector);
 	}*/
 	
